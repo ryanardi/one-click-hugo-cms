@@ -1,6 +1,6 @@
 ---
 title: "Hi from Ryan ardi"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: I don't really like coffee but It's Ok
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
